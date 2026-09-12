@@ -131,5 +131,3 @@ export const tokenAbi = [
   { type: "function", name: "name", stateMutability: "view", inputs: [], outputs: [{ type: "string" }] },
   { type: "function", name: "symbol", stateMutability: "view", inputs: [], outputs: [{ type: "string" }] },
 ] as const;
-
-export { factoryBytecode } from "./factoryBytecode";
