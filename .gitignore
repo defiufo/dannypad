@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+.env
+.env.local
+contracts/out
+contracts/cache
+contracts/lib
+.DS_Store
